@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio-done/static/css/main.ae72cf32.css",
+    "main.js": "/portfolio-done/static/js/main.7ec3a4e8.js",
+    "static/js/787.86f923b7.chunk.js": "/portfolio-done/static/js/787.86f923b7.chunk.js",
+    "static/media/Pokemon.png": "/portfolio-done/static/media/Pokemon.f7739e25989d8e9bdb4a.png",
+    "static/media/wine.png": "/portfolio-done/static/media/wine.768d8ad12fb8613c86a7.png",
+    "static/media/BIA.png": "/portfolio-done/static/media/BIA.f6a1864fc93b8068f671.png",
+    "static/media/test.jpg": "/portfolio-done/static/media/test.309ef3e441bb095152ed.jpg",
+    "static/media/PortMe1.png": "/portfolio-done/static/media/PortMe1.30afbe0afe004f993c7e.png",
+    "static/media/Bubble.png": "/portfolio-done/static/media/Bubble.fb84d6a9de4ed8b29cb5.png",
+    "static/media/node.png": "/portfolio-done/static/media/node.aae6a9d980b2bea25152.png",
+    "static/media/react.png": "/portfolio-done/static/media/react.44319306359c7112276d.png",
+    "static/media/css3.png": "/portfolio-done/static/media/css3.463795e3d1c449ea78db.png",
+    "static/media/js.jpg": "/portfolio-done/static/media/js.4e75c151fe99ad3f4a48.jpg",
+    "static/media/html5.png": "/portfolio-done/static/media/html5.33745eadd572612bdf11.png",
+    "index.html": "/portfolio-done/index.html",
+    "main.ae72cf32.css.map": "/portfolio-done/static/css/main.ae72cf32.css.map",
+    "main.7ec3a4e8.js.map": "/portfolio-done/static/js/main.7ec3a4e8.js.map",
+    "787.86f923b7.chunk.js.map": "/portfolio-done/static/js/787.86f923b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae72cf32.css",
+    "static/js/main.7ec3a4e8.js"
+  ]
+}
